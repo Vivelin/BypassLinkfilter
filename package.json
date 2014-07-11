@@ -1,0 +1,9 @@
+{
+  "name": "bypass-steam-linkfilter",
+  "title": "Steam Linkfilter Bypass",
+  "id": "jid1-F8tBtAByBTmYCw",
+  "description": "Bypass the \"You are leaving Steam\" notice when clicking on links in Steam chat.",
+  "author": "Ruben Verdoes <linkfilter@horsedrowner.net>",
+  "license": "MPL 2.0",
+  "version": "0.1-alpha"
+}
