@@ -1,6 +1,6 @@
 {
   "name": "Steam Linkfilter Bypass",
-  "version": "0.1-alpha",
+  "version": "0.1",
   "homepage_url": "https://github.com/horsedrowner/BypassLinkfilter",
   "description": "A Chrome add-on to bypass the \"You are leaving Steam\" notice.",
   "author": "Ruben Verdoes and Wingar",
